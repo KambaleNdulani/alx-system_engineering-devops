@@ -1,2 +1,1 @@
-#!/bin/bash
-this is a non empty readme\n
+this is a non empty red me expaling shell permissions
